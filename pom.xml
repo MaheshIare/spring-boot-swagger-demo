@@ -9,7 +9,7 @@
 		<version>2.4.4</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.spring.boot.swagger.demo</groupId>
+	<groupId>com.java.techhub</groupId>
 	<artifactId>spring-boot-swagger-demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-boot-swagger-demo</name>
